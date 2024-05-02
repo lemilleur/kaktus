@@ -60,4 +60,3 @@ if (isMobileScreen()) {
     filtersContainer.parentNode.insertBefore(newDiv, filtersContainer.nextSibling);
   }
 }
-<div class=​"cactus-category__filter-button-container">​…​</div>​flex
