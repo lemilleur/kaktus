@@ -10,5 +10,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
     } else {
       console.error('Toggle button not found');
     }
-  }, 100); // Задержка в 100 миллисекунд
+  }, 1000); // Задержка в 1 сек
 });
